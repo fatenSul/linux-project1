@@ -1,0 +1,3 @@
+[1mEXAMPLE[0m	 Search for a specific word in a file. : grep -n (test) file1.txt
+2:test
+4:test
